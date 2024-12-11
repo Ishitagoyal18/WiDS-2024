@@ -12,10 +12,13 @@ For Week-1 you have to complete 3 assignments in total
 
 ## Python basics
 
-Throughout this project, Python will be used primarily for coding. While an in-depth knowledge of the language is not required, understanding basic data types, data structures, loops, functions, and file operations is essential. Here are some resources to help you with Python basics:
+Throughout this project, Python will be used primarily for coding. While an in-depth knowledge of the language is not required, understanding basic data types, data structures, loops, functions, and file operations is essential. Here are some resources to help you with Python basics and libraries:
 
 - [Python Basics Video](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 - [W3School Python Tut](https://www.w3schools.com/python/)
 - [Python Basics Playlist](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm)
+- [Numpy documentation](https://numpy.org/doc/stable/)
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+- [Matplotlib tutorial](https://www.w3schools.com/python/matplotlib_intro.asp)
 
 
