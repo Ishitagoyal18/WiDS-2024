@@ -23,4 +23,9 @@ While an in-depth knowledge of the language is not required, understanding basic
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 - [Matplotlib tutorial](https://www.w3schools.com/python/matplotlib_intro.asp)
 
+<br>
+
+## Colab Notebooks
+
+We will majorly be using colab notebooks for coding exercises. It allows to run the code cell by cell which is really helpful in debugging. It's a hosted Jupyter notebook service with free access to computing resources. Learn the basics of Colab with this [introduction guide](https://youtu.be/iMlMfrXJYSg?feature=shared).
 
