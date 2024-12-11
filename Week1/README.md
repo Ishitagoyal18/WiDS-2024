@@ -6,7 +6,7 @@ For Week-1 you have to complete 3 assignments in total
 
 2. **Matplotlib and pandas** : You are given three exercises which will warmup you plotting skills.
 
-3. **Gradient descent** :In this task, you are given a mathematical function, and your goal is to find its minimum using the gradient descent optimization algorithm. Gradient descent is an iterative optimization algorithm commonly used for finding the minimum of a function.
+3. **Gradient descent** :In this task, you are given a mathematical function, and your goal is to find its minimum using the gradient descent optimization algorithm. Gradient descent is an iterative optimization algorithm commonly used for finding the minimum of a function. This is a very fun assignment which gives you the idea of gradient descent in depth. Search about this method and learn to solve this. In case you have any doubts you can always contact us!
 
 # Resources
 
