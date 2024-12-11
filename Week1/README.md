@@ -12,7 +12,9 @@ For Week-1 you have to complete 3 assignments in total
 
 ## Python basics
 
-Throughout this project, Python will be used primarily for coding. While an in-depth knowledge of the language is not required, understanding basic data types, data structures, loops, functions, and file operations is essential. Here are some resources to help you with Python basics and libraries:
+Python will be used primarily for coding throughout this project. For this project, we shall use Jupyter Notebook; you can also use Google Colab if you don't want any installations. You can ask any of us if you face any issue with Jupyter or Colab. 
+
+While an in-depth knowledge of the language is not required, understanding basic data types, data structures, loops, functions, and file operations is essential. We will start with Python and its interesting libraries:
 
 - [Python Basics Video](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 - [W3School Python Tut](https://www.w3schools.com/python/)
