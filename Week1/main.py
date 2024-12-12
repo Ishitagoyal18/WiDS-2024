@@ -46,16 +46,16 @@ if __name__ == '__main__':
     # Uncomment the following lines to test your code
 
     # TASK 1
-    print(task1(matrix))
+    #print(task1(matrix))
 
     # TASK 2
-    mean, median, std, det, inv, pseudoinv = task2(matrix)
-    print("Mean: ", mean)
-    print("Median: ", median)
-    print("Standard Deviation: ", std)
-    print("Determinant: ", det)
-    print("Inverse: ", inv)
-    print("Pseudo-Inverse: ", pseudoinv)
+    #mean, median, std, det, inv, pseudoinv = task2(matrix)
+    #print("Mean: ", mean)
+    #print("Median: ", median)
+    #print("Standard Deviation: ", std)
+    #print("Determinant: ", det)
+    #print("Inverse: ", inv)
+    #print("Pseudo-Inverse: ", pseudoinv)
 
     # TASK 3
-    print(task3(matrix)) # default padding
+    #print(task3(matrix)) # default padding
